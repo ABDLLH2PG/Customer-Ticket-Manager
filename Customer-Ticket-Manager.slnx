@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Customer-Ticket-Manager.vcxproj" Id="6dcad735-4c1c-4b51-8650-f0f080689444" />
+</Solution>
